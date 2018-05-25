@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.reactCapacitor",
+  "appName": "react-capacitor-example",
+  "bundledWebRuntime": false,
+  "webDir": "build"
+}
